@@ -1,0 +1,10 @@
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment4\PartyPlanner\PartyPlanner\bin\Debug\PartyPlanner.exe.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment4\PartyPlanner\PartyPlanner\bin\Debug\PartyPlanner.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment4\PartyPlanner\PartyPlanner\bin\Debug\PartyPlanner.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment4\PartyPlanner\PartyPlanner\obj\Debug\PartyPlanner.MainForm.resources
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment4\PartyPlanner\PartyPlanner\obj\Debug\PartyPlanner.Properties.Resources.resources
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment4\PartyPlanner\PartyPlanner\obj\Debug\PartyPlanner.csproj.GenerateResource.Cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment4\PartyPlanner\PartyPlanner\obj\Debug\PartyPlanner.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment4\PartyPlanner\PartyPlanner\obj\Debug\PartyPlanner.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment4\PartyPlanner\PartyPlanner\obj\Debug\PartyPlanner.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment4\PartyPlanner\PartyPlanner\obj\Debug\PartyPlanner.csprojAssemblyReference.cache
