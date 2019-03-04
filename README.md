@@ -1,5 +1,7 @@
 # PartyOrganizerWindowsForm
 
+Project Blog Article: https://portfolio.katiegirl.net/2018/08/08/party-organizer/
+
 1. Objectives
 
 The main objectives of this assignment are:
